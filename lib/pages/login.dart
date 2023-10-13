@@ -9,7 +9,7 @@ class SecondPage extends StatelessWidget {
         title: Text('Muturku'),
       ),
       body: Center(
-        child: Text('Selamat Datang di Website muturkuapp'),
+        child: Text('Welcome to muturku!'),
       ),
     );
   }
